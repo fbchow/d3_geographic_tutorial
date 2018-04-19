@@ -7,4 +7,5 @@ Last week, we created a .csv with airport origins, destinations, and counts. Thi
 1. Replace the current data with this csv in the code.
 2. The circles are now hard to discern due to the overlap. Adjust the circle features to better show individual airports.
 3. Change the radius of the circle to depend upon number of flights (counts) instead of "links".
-4. Adjust how the radius is calculated from the counts for better scaled circles.
+4. Adjust how the radius is calculated from the counts for better scaled circles.  
+
