@@ -34,7 +34,7 @@ path.cell {
   fill: none;
   /*stroke: lightgrey;*/
   stroke: brown;
-  stroke-width: 10px;
+  stroke-width: 2px;
 }
 
 #cells.voronoi path.cell {
