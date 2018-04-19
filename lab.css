@@ -26,7 +26,7 @@ path.cell {
 }
 
 .land {
-  fill: none;
+  fill: purple;
   stroke: brown;
 }
 
@@ -34,6 +34,7 @@ path.cell {
   fill: none;
   /*stroke: lightgrey;*/
   stroke: brown;
+  stroke-width: 10px;
 }
 
 #cells.voronoi path.cell {
